@@ -1,0 +1,489 @@
+{
+  "ui": {
+    "tooMany": "Too many attempts. Please wait a little before trying again.",
+    "conflict": "An earlier request may already be saved. Close this form and reopen it if you need to change or resend your details.",
+    "saveFailed": "We could not save your enquiry. Please retry or use the main contact page.",
+    "unconfirmed": "Your enquiry was not confirmed as saved. Please retry.",
+    "measurementOn": "Optional usage measurement is on for this website.",
+    "measurementOff": "Optional usage measurement is off for this website.",
+    "saveWhatsApp": "Save and open WhatsApp",
+    "saveChat": "Save and open live chat",
+    "consentWhatsApp": "I agree that Opplex IPTV may store these details and contact me on WhatsApp about this enquiry, not for marketing.",
+    "consentChat": "I agree that Opplex IPTV may store these details and handle my live-chat enquiry. This does not give permission for WhatsApp contact.",
+    "phoneInvalid": "Enter a phone number with 8–15 digits (0–9), including your country code.",
+    "required": "Please complete this field.",
+    "emailInvalid": "Enter a valid email address.",
+    "consentRequired": "Please confirm contact permission to continue.",
+    "fieldInvalid": "Please check this field.",
+    "saving": "Saving your enquiry…",
+    "saved": "Your enquiry is saved.",
+    "invalidField": "Please check the {field} field and try again.",
+    "field_name": "name",
+    "field_email": "email",
+    "field_phone": "phone",
+    "field_message": "message",
+    "field_contact_consent": "contact permission",
+    "saveTimeout": "Saving took too long. Please retry; the same request will not create a duplicate.",
+    "chatFailed": "Chat could not load. Tap the chat icon to retry, or use WhatsApp.",
+    "chatSlow": "Chat is taking longer to load. You can use WhatsApp for support.",
+    "chatLoading": "Chat is still loading. You can use WhatsApp for support.",
+    "chatOpening": "Opening live chat…",
+    "terms": "Terms of service",
+    "privacy": "Privacy policy",
+    "refund": "Refund policy",
+    "compare": "Compare the full term",
+    "equivalentNote": "Monthly equivalent = plan total ÷ months. This is a comparison only, not monthly billing. Check the final amount and any fees at checkout.",
+    "comparisonRegion": "Plan comparison; scroll horizontally if needed",
+    "comparisonCaption": "{provider} · current available plans",
+    "term": "Term",
+    "total": "Plan total",
+    "equivalent": "Monthly equivalent",
+    "connections": "Connections",
+    "confirmSupport": "Confirm with support",
+    "fullPlan": "For the full {duration} plan",
+    "finalFees": "Review the final amount and any fees at checkout",
+    "connectionCount": "Simultaneous connections: {count}",
+    "confirmConnections": "Confirm the connection allowance with support",
+    "checkout": "Continue to checkout",
+    "checkoutLabel": "Continue to checkout: {provider}, {duration}, {price}",
+    "catalogUnavailable": "Catalog unavailable",
+    "availability": "Check availability with support",
+    "deviceCheck": "Check your exact device and player with support before purchasing. A listed device is not a compatibility guarantee.",
+    "deviceContact": "Contact support to check your device.",
+    "deviceError": "Device information is temporarily unavailable. Contact support for help.",
+    "loadingPlans": "Loading current plans",
+    "loadingBrand": "Loading current brand plans from Opplex IPTV…",
+    "connecting": "Connecting to catalog",
+    "loadingDevices": "Loading device information…",
+    "missingBrand": "This page has no configured brand. Please contact support.",
+    "noPlans": "No available plans for this brand right now. Please retry or contact support.",
+    "currentBrand": "Current brand",
+    "plansAvailable": "{provider} · available plans: {count}",
+    "connected": "Catalog connected",
+    "priceNote": "Current catalog prices. Review the final total and any fees at checkout.",
+    "currentPlan": "{duration} · current plan",
+    "pricesError": "We could not load current prices. Please retry or contact support."
+  },
+  "metadata": {
+    "en": {
+      "title": "Opplex IPTV Plans | Subscription & Device Setup",
+      "description": "Compare Opplex IPTV subscription plans, check your device setup and understand the checkout steps. Current prices come from the main Opplex IPTV catalogue.",
+      "ogTitle": "Opplex IPTV Plans | Subscription & Device Setup",
+      "ogDescription": "Find your Opplex IPTV plan, understand what to check before buying and get help with your device. Prices stay connected to the main catalogue.",
+      "twitterTitle": "Opplex IPTV Plans | Subscription & Device Setup",
+      "twitterDescription": "Compare current plans and get practical help with your first IPTV setup, from choosing a player to reviewing checkout.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/#webpage",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV Plans | Subscription & Device Setup",
+            "description": "Compare Opplex IPTV subscription plans, check your device setup and understand the checkout steps. Current prices come from the main Opplex IPTV catalogue.",
+            "inLanguage": "en",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "es": {
+      "title": "Planes Opplex IPTV | Suscripción y configuración",
+      "description": "Compara los planes de suscripción de Opplex IPTV, comprueba la configuración de tu dispositivo y conoce los pasos del pago. Los precios actuales proceden del catálogo principal de Opplex IPTV.",
+      "ogTitle": "Planes Opplex IPTV | Suscripción y configuración",
+      "ogDescription": "Encuentra tu plan Opplex IPTV, descubre qué comprobar antes de comprar y obtén ayuda con tu dispositivo. Los precios siguen conectados al catálogo principal.",
+      "twitterTitle": "Planes Opplex IPTV | Suscripción y configuración",
+      "twitterDescription": "Compara los planes actuales y recibe ayuda práctica para tu primera configuración IPTV, desde elegir un reproductor hasta revisar el pago.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/es/#webpage",
+            "url": "https://opplexiptv.store/es/",
+            "name": "Planes Opplex IPTV | Suscripción y configuración",
+            "description": "Compara los planes de suscripción de Opplex IPTV, comprueba la configuración de tu dispositivo y conoce los pasos del pago. Los precios actuales proceden del catálogo principal de Opplex IPTV.",
+            "inLanguage": "es",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "fr": {
+      "title": "Offres Opplex IPTV | Abonnement et installation",
+      "description": "Comparez les abonnements Opplex IPTV, vérifiez votre appareil et découvrez les étapes du paiement. Les prix actuels proviennent du catalogue principal d’Opplex IPTV.",
+      "ogTitle": "Offres Opplex IPTV | Abonnement et installation",
+      "ogDescription": "Trouvez votre offre Opplex IPTV, découvrez les points à vérifier avant l’achat et obtenez de l’aide pour votre appareil. Les prix restent reliés au catalogue principal.",
+      "twitterTitle": "Offres Opplex IPTV | Abonnement et installation",
+      "twitterDescription": "Comparez les offres actuelles et obtenez des conseils pratiques pour votre première installation IPTV, du choix du lecteur à la vérification du paiement.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/fr/#webpage",
+            "url": "https://opplexiptv.store/fr/",
+            "name": "Offres Opplex IPTV | Abonnement et installation",
+            "description": "Comparez les abonnements Opplex IPTV, vérifiez votre appareil et découvrez les étapes du paiement. Les prix actuels proviennent du catalogue principal d’Opplex IPTV.",
+            "inLanguage": "fr",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "it": {
+      "title": "Piani Opplex IPTV | Abbonamento e configurazione",
+      "description": "Confronta gli abbonamenti Opplex IPTV, verifica il tuo dispositivo e scopri i passaggi del pagamento. I prezzi attuali provengono dal catalogo principale di Opplex IPTV.",
+      "ogTitle": "Piani Opplex IPTV | Abbonamento e configurazione",
+      "ogDescription": "Trova il tuo piano Opplex IPTV, scopri cosa verificare prima dell’acquisto e ricevi aiuto per il dispositivo. I prezzi restano collegati al catalogo principale.",
+      "twitterTitle": "Piani Opplex IPTV | Abbonamento e configurazione",
+      "twitterDescription": "Confronta i piani attuali e ricevi consigli pratici per la tua prima configurazione IPTV, dalla scelta del lettore al controllo del pagamento.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/it/#webpage",
+            "url": "https://opplexiptv.store/it/",
+            "name": "Piani Opplex IPTV | Abbonamento e configurazione",
+            "description": "Confronta gli abbonamenti Opplex IPTV, verifica il tuo dispositivo e scopri i passaggi del pagamento. I prezzi attuali provengono dal catalogo principale di Opplex IPTV.",
+            "inLanguage": "it",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "nl": {
+      "title": "Opplex IPTV-pakketten | Abonnement en installatie",
+      "description": "Vergelijk Opplex IPTV-abonnementen, controleer jouw apparaat en ontdek de stappen bij het afrekenen. Huidige prijzen komen uit de hoofdcatalogus van Opplex IPTV.",
+      "ogTitle": "Opplex IPTV-pakketten | Abonnement en installatie",
+      "ogDescription": "Vind jouw Opplex IPTV-pakket, ontdek wat je vóór aankoop moet controleren en krijg hulp met jouw apparaat. Prijzen blijven verbonden met de hoofdcatalogus.",
+      "twitterTitle": "Opplex IPTV-pakketten | Abonnement en installatie",
+      "twitterDescription": "Vergelijk huidige pakketten en krijg praktische hulp bij jouw eerste IPTV-installatie, van het kiezen van een speler tot het controleren van het afrekenen.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/nl/#webpage",
+            "url": "https://opplexiptv.store/nl/",
+            "name": "Opplex IPTV-pakketten | Abonnement en installatie",
+            "description": "Vergelijk Opplex IPTV-abonnementen, controleer jouw apparaat en ontdek de stappen bij het afrekenen. Huidige prijzen komen uit de hoofdcatalogus van Opplex IPTV.",
+            "inLanguage": "nl",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "pt": {
+      "title": "Planos Opplex IPTV | Assinatura e configuração",
+      "description": "Compare os planos de assinatura da Opplex IPTV, confira seu dispositivo e entenda as etapas do pagamento. Os preços atuais vêm do catálogo principal da Opplex IPTV.",
+      "ogTitle": "Planos Opplex IPTV | Assinatura e configuração",
+      "ogDescription": "Encontre seu plano Opplex IPTV, saiba o que verificar antes de comprar e receba ajuda com seu dispositivo. Os preços continuam ligados ao catálogo principal.",
+      "twitterTitle": "Planos Opplex IPTV | Assinatura e configuração",
+      "twitterDescription": "Compare os planos atuais e receba ajuda prática para sua primeira configuração IPTV, da escolha de um reprodutor à revisão do pagamento.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/pt/#webpage",
+            "url": "https://opplexiptv.store/pt/",
+            "name": "Planos Opplex IPTV | Assinatura e configuração",
+            "description": "Compare os planos de assinatura da Opplex IPTV, confira seu dispositivo e entenda as etapas do pagamento. Os preços atuais vêm do catálogo principal da Opplex IPTV.",
+            "inLanguage": "pt",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "ru": {
+      "title": "Тарифы Opplex IPTV | Подписка и настройка устройства",
+      "description": "Сравните подписки Opplex IPTV, проверьте своё устройство и узнайте этапы оплаты. Текущие цены поступают из основного каталога Opplex IPTV.",
+      "ogTitle": "Тарифы Opplex IPTV | Подписка и настройка устройства",
+      "ogDescription": "Найдите свой тариф Opplex IPTV, узнайте, что проверить перед покупкой, и получите помощь с устройством. Цены связаны с основным каталогом.",
+      "twitterTitle": "Тарифы Opplex IPTV | Подписка и настройка устройства",
+      "twitterDescription": "Сравните действующие тарифы и получите практическую помощь с первой настройкой IPTV — от выбора плеера до проверки оформления оплаты.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/ru/#webpage",
+            "url": "https://opplexiptv.store/ru/",
+            "name": "Тарифы Opplex IPTV | Подписка и настройка устройства",
+            "description": "Сравните подписки Opplex IPTV, проверьте своё устройство и узнайте этапы оплаты. Текущие цены поступают из основного каталога Opplex IPTV.",
+            "inLanguage": "ru",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "ur": {
+      "title": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
+      "description": "Opplex IPTV کے سبسکرپشن پلان کا موازنہ کریں، اپنے آلے کا سیٹ اپ جانچیں اور چیک آؤٹ کے مراحل سمجھیں۔ موجودہ قیمتیں Opplex IPTV کے مرکزی کیٹلاگ سے آتی ہیں۔",
+      "ogTitle": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
+      "ogDescription": "اپنا Opplex IPTV پلان تلاش کریں، خریدنے سے پہلے کی ضروری جانچ سمجھیں اور اپنے آلے کے لیے مدد لیں۔ قیمتیں مرکزی کیٹلاگ سے منسلک رہتی ہیں۔",
+      "twitterTitle": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
+      "twitterDescription": "موجودہ پلان کا موازنہ کریں اور اپنے پہلے IPTV سیٹ اپ کے لیے عملی مدد لیں، پلیئر منتخب کرنے سے چیک آؤٹ کا جائزہ لینے تک۔",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/ur/#webpage",
+            "url": "https://opplexiptv.store/ur/",
+            "name": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
+            "description": "Opplex IPTV کے سبسکرپشن پلان کا موازنہ کریں، اپنے آلے کا سیٹ اپ جانچیں اور چیک آؤٹ کے مراحل سمجھیں۔ موجودہ قیمتیں Opplex IPTV کے مرکزی کیٹلاگ سے آتی ہیں۔",
+            "inLanguage": "ur",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "ar": {
+      "title": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
+      "description": "قارن خطط اشتراك Opplex IPTV، وتحقق من إعداد جهازك وافهم خطوات الدفع. تأتي الأسعار الحالية من كتالوج Opplex IPTV الرئيسي.",
+      "ogTitle": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
+      "ogDescription": "اعثر على خطة Opplex IPTV المناسبة، وتعرّف على ما ينبغي التحقق منه قبل الشراء واحصل على مساعدة لجهازك. تبقى الأسعار متصلة بالكتالوج الرئيسي.",
+      "twitterTitle": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
+      "twitterDescription": "قارن الخطط الحالية واحصل على إرشادات عملية لإعداد IPTV للمرة الأولى، من اختيار المشغّل إلى مراجعة الدفع.",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/ar/#webpage",
+            "url": "https://opplexiptv.store/ar/",
+            "name": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
+            "description": "قارن خطط اشتراك Opplex IPTV، وتحقق من إعداد جهازك وافهم خطوات الدفع. تأتي الأسعار الحالية من كتالوج Opplex IPTV الرئيسي.",
+            "inLanguage": "ar",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    },
+    "hi": {
+      "title": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
+      "description": "Opplex IPTV के सब्सक्रिप्शन प्लान की तुलना करें, अपने डिवाइस का सेटअप जाँचें और चेकआउट के चरण समझें। मौजूदा कीमतें Opplex IPTV के मुख्य कैटलॉग से आती हैं।",
+      "ogTitle": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
+      "ogDescription": "अपना Opplex IPTV प्लान खोजें, खरीदने से पहले की ज़रूरी जाँच समझें और अपने डिवाइस के लिए मदद पाएँ। कीमतें मुख्य कैटलॉग से जुड़ी रहती हैं।",
+      "twitterTitle": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
+      "twitterDescription": "मौजूदा प्लान की तुलना करें और अपने पहले IPTV सेटअप के लिए व्यावहारिक मदद पाएँ, प्लेयर चुनने से लेकर चेकआउट की समीक्षा तक।",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://opplexiptv.store/#website",
+            "url": "https://opplexiptv.store/",
+            "name": "Opplex IPTV",
+            "inLanguage": [
+              "en",
+              "es",
+              "fr",
+              "it",
+              "nl",
+              "pt",
+              "ru",
+              "ur",
+              "ar",
+              "hi"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://opplexiptv.store/hi/#webpage",
+            "url": "https://opplexiptv.store/hi/",
+            "name": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
+            "description": "Opplex IPTV के सब्सक्रिप्शन प्लान की तुलना करें, अपने डिवाइस का सेटअप जाँचें और चेकआउट के चरण समझें। मौजूदा कीमतें Opplex IPTV के मुख्य कैटलॉग से आती हैं।",
+            "inLanguage": "hi",
+            "isPartOf": {
+              "@id": "https://opplexiptv.store/#website"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
