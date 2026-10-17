@@ -67,11 +67,11 @@
   "metadata": {
     "en": {
       "title": "Opplex IPTV Plans | Subscription & Device Setup",
-      "description": "Compare Opplex IPTV subscription plans, check your device setup and understand the checkout steps. Current prices come from the main Opplex IPTV catalogue.",
+      "description": "Compare Opplex IPTV plans for 1, 3, 6 or 12 months, each with one simultaneous connection. Review total prices, checkout steps and shared account support.",
       "ogTitle": "Opplex IPTV Plans | Subscription & Device Setup",
-      "ogDescription": "Find your Opplex IPTV plan, understand what to check before buying and get help with your device. Prices stay connected to the main catalogue.",
+      "ogDescription": "Compare Opplex IPTV plans for 1, 3, 6 or 12 months, each with one simultaneous connection. Review total prices, checkout steps and shared account support.",
       "twitterTitle": "Opplex IPTV Plans | Subscription & Device Setup",
-      "twitterDescription": "Compare current plans and get practical help with your first IPTV setup, from choosing a player to reviewing checkout.",
+      "twitterDescription": "Compare Opplex IPTV plans for 1, 3, 6 or 12 months, each with one simultaneous connection. Review total prices, checkout steps and shared account support.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -98,7 +98,7 @@
             "@id": "https://opplexiptv.store/#webpage",
             "url": "https://opplexiptv.store/",
             "name": "Opplex IPTV Plans | Subscription & Device Setup",
-            "description": "Compare Opplex IPTV subscription plans, check your device setup and understand the checkout steps. Current prices come from the main Opplex IPTV catalogue.",
+            "description": "Compare Opplex IPTV plans for 1, 3, 6 or 12 months, each with one simultaneous connection. Review total prices, checkout steps and shared account support.",
             "inLanguage": "en",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -109,11 +109,11 @@
     },
     "es": {
       "title": "Planes Opplex IPTV | Suscripción y configuración",
-      "description": "Compara los planes de suscripción de Opplex IPTV, comprueba la configuración de tu dispositivo y conoce los pasos del pago. Los precios actuales proceden del catálogo principal de Opplex IPTV.",
+      "description": "Compara planes Opplex IPTV de 1, 3, 6 o 12 meses, con una conexión simultánea. Revisa precios totales, pasos de pago y ayuda con tu cuenta.",
       "ogTitle": "Planes Opplex IPTV | Suscripción y configuración",
-      "ogDescription": "Encuentra tu plan Opplex IPTV, descubre qué comprobar antes de comprar y obtén ayuda con tu dispositivo. Los precios siguen conectados al catálogo principal.",
+      "ogDescription": "Compara planes Opplex IPTV de 1, 3, 6 o 12 meses, con una conexión simultánea. Revisa precios totales, pasos de pago y ayuda con tu cuenta.",
       "twitterTitle": "Planes Opplex IPTV | Suscripción y configuración",
-      "twitterDescription": "Compara los planes actuales y recibe ayuda práctica para tu primera configuración IPTV, desde elegir un reproductor hasta revisar el pago.",
+      "twitterDescription": "Compara planes Opplex IPTV de 1, 3, 6 o 12 meses, con una conexión simultánea. Revisa precios totales, pasos de pago y ayuda con tu cuenta.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -140,7 +140,7 @@
             "@id": "https://opplexiptv.store/es/#webpage",
             "url": "https://opplexiptv.store/es/",
             "name": "Planes Opplex IPTV | Suscripción y configuración",
-            "description": "Compara los planes de suscripción de Opplex IPTV, comprueba la configuración de tu dispositivo y conoce los pasos del pago. Los precios actuales proceden del catálogo principal de Opplex IPTV.",
+            "description": "Compara planes Opplex IPTV de 1, 3, 6 o 12 meses, con una conexión simultánea. Revisa precios totales, pasos de pago y ayuda con tu cuenta.",
             "inLanguage": "es",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -151,11 +151,11 @@
     },
     "fr": {
       "title": "Offres Opplex IPTV | Abonnement et installation",
-      "description": "Comparez les abonnements Opplex IPTV, vérifiez votre appareil et découvrez les étapes du paiement. Les prix actuels proviennent du catalogue principal d’Opplex IPTV.",
+      "description": "Comparez les forfaits Opplex IPTV de 1, 3, 6 ou 12 mois, avec une connexion simultanée. Consultez les prix totaux, le paiement et l’aide au compte.",
       "ogTitle": "Offres Opplex IPTV | Abonnement et installation",
-      "ogDescription": "Trouvez votre offre Opplex IPTV, découvrez les points à vérifier avant l’achat et obtenez de l’aide pour votre appareil. Les prix restent reliés au catalogue principal.",
+      "ogDescription": "Comparez les forfaits Opplex IPTV de 1, 3, 6 ou 12 mois, avec une connexion simultanée. Consultez les prix totaux, le paiement et l’aide au compte.",
       "twitterTitle": "Offres Opplex IPTV | Abonnement et installation",
-      "twitterDescription": "Comparez les offres actuelles et obtenez des conseils pratiques pour votre première installation IPTV, du choix du lecteur à la vérification du paiement.",
+      "twitterDescription": "Comparez les forfaits Opplex IPTV de 1, 3, 6 ou 12 mois, avec une connexion simultanée. Consultez les prix totaux, le paiement et l’aide au compte.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -182,7 +182,7 @@
             "@id": "https://opplexiptv.store/fr/#webpage",
             "url": "https://opplexiptv.store/fr/",
             "name": "Offres Opplex IPTV | Abonnement et installation",
-            "description": "Comparez les abonnements Opplex IPTV, vérifiez votre appareil et découvrez les étapes du paiement. Les prix actuels proviennent du catalogue principal d’Opplex IPTV.",
+            "description": "Comparez les forfaits Opplex IPTV de 1, 3, 6 ou 12 mois, avec une connexion simultanée. Consultez les prix totaux, le paiement et l’aide au compte.",
             "inLanguage": "fr",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -193,11 +193,11 @@
     },
     "it": {
       "title": "Piani Opplex IPTV | Abbonamento e configurazione",
-      "description": "Confronta gli abbonamenti Opplex IPTV, verifica il tuo dispositivo e scopri i passaggi del pagamento. I prezzi attuali provengono dal catalogo principale di Opplex IPTV.",
+      "description": "Confronta i piani Opplex IPTV da 1, 3, 6 o 12 mesi con una connessione simultanea. Consulta prezzi totali, passaggi di pagamento e assistenza account.",
       "ogTitle": "Piani Opplex IPTV | Abbonamento e configurazione",
-      "ogDescription": "Trova il tuo piano Opplex IPTV, scopri cosa verificare prima dell’acquisto e ricevi aiuto per il dispositivo. I prezzi restano collegati al catalogo principale.",
+      "ogDescription": "Confronta i piani Opplex IPTV da 1, 3, 6 o 12 mesi con una connessione simultanea. Consulta prezzi totali, passaggi di pagamento e assistenza account.",
       "twitterTitle": "Piani Opplex IPTV | Abbonamento e configurazione",
-      "twitterDescription": "Confronta i piani attuali e ricevi consigli pratici per la tua prima configurazione IPTV, dalla scelta del lettore al controllo del pagamento.",
+      "twitterDescription": "Confronta i piani Opplex IPTV da 1, 3, 6 o 12 mesi con una connessione simultanea. Consulta prezzi totali, passaggi di pagamento e assistenza account.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -224,7 +224,7 @@
             "@id": "https://opplexiptv.store/it/#webpage",
             "url": "https://opplexiptv.store/it/",
             "name": "Piani Opplex IPTV | Abbonamento e configurazione",
-            "description": "Confronta gli abbonamenti Opplex IPTV, verifica il tuo dispositivo e scopri i passaggi del pagamento. I prezzi attuali provengono dal catalogo principale di Opplex IPTV.",
+            "description": "Confronta i piani Opplex IPTV da 1, 3, 6 o 12 mesi con una connessione simultanea. Consulta prezzi totali, passaggi di pagamento e assistenza account.",
             "inLanguage": "it",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -235,11 +235,11 @@
     },
     "nl": {
       "title": "Opplex IPTV-pakketten | Abonnement en installatie",
-      "description": "Vergelijk Opplex IPTV-abonnementen, controleer jouw apparaat en ontdek de stappen bij het afrekenen. Huidige prijzen komen uit de hoofdcatalogus van Opplex IPTV.",
+      "description": "Vergelijk Opplex IPTV-pakketten van 1, 3, 6 of 12 maanden met één gelijktijdige verbinding. Bekijk totaalprijzen, betaalstappen en accounthulp.",
       "ogTitle": "Opplex IPTV-pakketten | Abonnement en installatie",
-      "ogDescription": "Vind jouw Opplex IPTV-pakket, ontdek wat je vóór aankoop moet controleren en krijg hulp met jouw apparaat. Prijzen blijven verbonden met de hoofdcatalogus.",
+      "ogDescription": "Vergelijk Opplex IPTV-pakketten van 1, 3, 6 of 12 maanden met één gelijktijdige verbinding. Bekijk totaalprijzen, betaalstappen en accounthulp.",
       "twitterTitle": "Opplex IPTV-pakketten | Abonnement en installatie",
-      "twitterDescription": "Vergelijk huidige pakketten en krijg praktische hulp bij jouw eerste IPTV-installatie, van het kiezen van een speler tot het controleren van het afrekenen.",
+      "twitterDescription": "Vergelijk Opplex IPTV-pakketten van 1, 3, 6 of 12 maanden met één gelijktijdige verbinding. Bekijk totaalprijzen, betaalstappen en accounthulp.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -266,7 +266,7 @@
             "@id": "https://opplexiptv.store/nl/#webpage",
             "url": "https://opplexiptv.store/nl/",
             "name": "Opplex IPTV-pakketten | Abonnement en installatie",
-            "description": "Vergelijk Opplex IPTV-abonnementen, controleer jouw apparaat en ontdek de stappen bij het afrekenen. Huidige prijzen komen uit de hoofdcatalogus van Opplex IPTV.",
+            "description": "Vergelijk Opplex IPTV-pakketten van 1, 3, 6 of 12 maanden met één gelijktijdige verbinding. Bekijk totaalprijzen, betaalstappen en accounthulp.",
             "inLanguage": "nl",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -277,11 +277,11 @@
     },
     "pt": {
       "title": "Planos Opplex IPTV | Assinatura e configuração",
-      "description": "Compare os planos de assinatura da Opplex IPTV, confira seu dispositivo e entenda as etapas do pagamento. Os preços atuais vêm do catálogo principal da Opplex IPTV.",
+      "description": "Compare planos Opplex IPTV de 1, 3, 6 ou 12 meses com uma ligação em simultâneo. Consulte preços totais, etapas de pagamento e apoio à conta.",
       "ogTitle": "Planos Opplex IPTV | Assinatura e configuração",
-      "ogDescription": "Encontre seu plano Opplex IPTV, saiba o que verificar antes de comprar e receba ajuda com seu dispositivo. Os preços continuam ligados ao catálogo principal.",
+      "ogDescription": "Compare planos Opplex IPTV de 1, 3, 6 ou 12 meses com uma ligação em simultâneo. Consulte preços totais, etapas de pagamento e apoio à conta.",
       "twitterTitle": "Planos Opplex IPTV | Assinatura e configuração",
-      "twitterDescription": "Compare os planos atuais e receba ajuda prática para sua primeira configuração IPTV, da escolha de um reprodutor à revisão do pagamento.",
+      "twitterDescription": "Compare planos Opplex IPTV de 1, 3, 6 ou 12 meses com uma ligação em simultâneo. Consulte preços totais, etapas de pagamento e apoio à conta.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -308,7 +308,7 @@
             "@id": "https://opplexiptv.store/pt/#webpage",
             "url": "https://opplexiptv.store/pt/",
             "name": "Planos Opplex IPTV | Assinatura e configuração",
-            "description": "Compare os planos de assinatura da Opplex IPTV, confira seu dispositivo e entenda as etapas do pagamento. Os preços atuais vêm do catálogo principal da Opplex IPTV.",
+            "description": "Compare planos Opplex IPTV de 1, 3, 6 ou 12 meses com uma ligação em simultâneo. Consulte preços totais, etapas de pagamento e apoio à conta.",
             "inLanguage": "pt",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -319,11 +319,11 @@
     },
     "ru": {
       "title": "Тарифы Opplex IPTV | Подписка и настройка устройства",
-      "description": "Сравните подписки Opplex IPTV, проверьте своё устройство и узнайте этапы оплаты. Текущие цены поступают из основного каталога Opplex IPTV.",
+      "description": "Сравните тарифы Opplex IPTV на 1, 3, 6 или 12 месяцев с одним одновременным подключением. Узнайте полную цену, порядок оплаты и помощь с аккаунтом.",
       "ogTitle": "Тарифы Opplex IPTV | Подписка и настройка устройства",
-      "ogDescription": "Найдите свой тариф Opplex IPTV, узнайте, что проверить перед покупкой, и получите помощь с устройством. Цены связаны с основным каталогом.",
+      "ogDescription": "Сравните тарифы Opplex IPTV на 1, 3, 6 или 12 месяцев с одним одновременным подключением. Узнайте полную цену, порядок оплаты и помощь с аккаунтом.",
       "twitterTitle": "Тарифы Opplex IPTV | Подписка и настройка устройства",
-      "twitterDescription": "Сравните действующие тарифы и получите практическую помощь с первой настройкой IPTV — от выбора плеера до проверки оформления оплаты.",
+      "twitterDescription": "Сравните тарифы Opplex IPTV на 1, 3, 6 или 12 месяцев с одним одновременным подключением. Узнайте полную цену, порядок оплаты и помощь с аккаунтом.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -350,7 +350,7 @@
             "@id": "https://opplexiptv.store/ru/#webpage",
             "url": "https://opplexiptv.store/ru/",
             "name": "Тарифы Opplex IPTV | Подписка и настройка устройства",
-            "description": "Сравните подписки Opplex IPTV, проверьте своё устройство и узнайте этапы оплаты. Текущие цены поступают из основного каталога Opplex IPTV.",
+            "description": "Сравните тарифы Opplex IPTV на 1, 3, 6 или 12 месяцев с одним одновременным подключением. Узнайте полную цену, порядок оплаты и помощь с аккаунтом.",
             "inLanguage": "ru",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -361,11 +361,11 @@
     },
     "ur": {
       "title": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
-      "description": "Opplex IPTV کے سبسکرپشن پلان کا موازنہ کریں، اپنے آلے کا سیٹ اپ جانچیں اور چیک آؤٹ کے مراحل سمجھیں۔ موجودہ قیمتیں Opplex IPTV کے مرکزی کیٹلاگ سے آتی ہیں۔",
+      "description": "Opplex IPTV کے 1، 3، 6 یا 12 ماہ کے پلان کا موازنہ کریں؛ ہر پلان میں ایک وقت میں ایک کنکشن ہے۔ پوری قیمت، ادائیگی کے مراحل اور اکاؤنٹ مدد دیکھیں۔",
       "ogTitle": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
-      "ogDescription": "اپنا Opplex IPTV پلان تلاش کریں، خریدنے سے پہلے کی ضروری جانچ سمجھیں اور اپنے آلے کے لیے مدد لیں۔ قیمتیں مرکزی کیٹلاگ سے منسلک رہتی ہیں۔",
+      "ogDescription": "Opplex IPTV کے 1، 3، 6 یا 12 ماہ کے پلان کا موازنہ کریں؛ ہر پلان میں ایک وقت میں ایک کنکشن ہے۔ پوری قیمت، ادائیگی کے مراحل اور اکاؤنٹ مدد دیکھیں۔",
       "twitterTitle": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
-      "twitterDescription": "موجودہ پلان کا موازنہ کریں اور اپنے پہلے IPTV سیٹ اپ کے لیے عملی مدد لیں، پلیئر منتخب کرنے سے چیک آؤٹ کا جائزہ لینے تک۔",
+      "twitterDescription": "Opplex IPTV کے 1، 3، 6 یا 12 ماہ کے پلان کا موازنہ کریں؛ ہر پلان میں ایک وقت میں ایک کنکشن ہے۔ پوری قیمت، ادائیگی کے مراحل اور اکاؤنٹ مدد دیکھیں۔",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -392,7 +392,7 @@
             "@id": "https://opplexiptv.store/ur/#webpage",
             "url": "https://opplexiptv.store/ur/",
             "name": "Opplex IPTV کے پلان | سبسکرپشن اور آلے کا سیٹ اپ",
-            "description": "Opplex IPTV کے سبسکرپشن پلان کا موازنہ کریں، اپنے آلے کا سیٹ اپ جانچیں اور چیک آؤٹ کے مراحل سمجھیں۔ موجودہ قیمتیں Opplex IPTV کے مرکزی کیٹلاگ سے آتی ہیں۔",
+            "description": "Opplex IPTV کے 1، 3، 6 یا 12 ماہ کے پلان کا موازنہ کریں؛ ہر پلان میں ایک وقت میں ایک کنکشن ہے۔ پوری قیمت، ادائیگی کے مراحل اور اکاؤنٹ مدد دیکھیں۔",
             "inLanguage": "ur",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -403,11 +403,11 @@
     },
     "ar": {
       "title": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
-      "description": "قارن خطط اشتراك Opplex IPTV، وتحقق من إعداد جهازك وافهم خطوات الدفع. تأتي الأسعار الحالية من كتالوج Opplex IPTV الرئيسي.",
+      "description": "قارن خطط Opplex IPTV لمدة شهر أو 3 أو 6 أو 12 شهرًا، باتصال واحد متزامن لكل خطة. راجع الأسعار الكاملة وخطوات الدفع ودعم الحساب.",
       "ogTitle": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
-      "ogDescription": "اعثر على خطة Opplex IPTV المناسبة، وتعرّف على ما ينبغي التحقق منه قبل الشراء واحصل على مساعدة لجهازك. تبقى الأسعار متصلة بالكتالوج الرئيسي.",
+      "ogDescription": "قارن خطط Opplex IPTV لمدة شهر أو 3 أو 6 أو 12 شهرًا، باتصال واحد متزامن لكل خطة. راجع الأسعار الكاملة وخطوات الدفع ودعم الحساب.",
       "twitterTitle": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
-      "twitterDescription": "قارن الخطط الحالية واحصل على إرشادات عملية لإعداد IPTV للمرة الأولى، من اختيار المشغّل إلى مراجعة الدفع.",
+      "twitterDescription": "قارن خطط Opplex IPTV لمدة شهر أو 3 أو 6 أو 12 شهرًا، باتصال واحد متزامن لكل خطة. راجع الأسعار الكاملة وخطوات الدفع ودعم الحساب.",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -434,7 +434,7 @@
             "@id": "https://opplexiptv.store/ar/#webpage",
             "url": "https://opplexiptv.store/ar/",
             "name": "خطط Opplex IPTV | الاشتراك وإعداد الأجهزة",
-            "description": "قارن خطط اشتراك Opplex IPTV، وتحقق من إعداد جهازك وافهم خطوات الدفع. تأتي الأسعار الحالية من كتالوج Opplex IPTV الرئيسي.",
+            "description": "قارن خطط Opplex IPTV لمدة شهر أو 3 أو 6 أو 12 شهرًا، باتصال واحد متزامن لكل خطة. راجع الأسعار الكاملة وخطوات الدفع ودعم الحساب.",
             "inLanguage": "ar",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
@@ -445,11 +445,11 @@
     },
     "hi": {
       "title": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
-      "description": "Opplex IPTV के सब्सक्रिप्शन प्लान की तुलना करें, अपने डिवाइस का सेटअप जाँचें और चेकआउट के चरण समझें। मौजूदा कीमतें Opplex IPTV के मुख्य कैटलॉग से आती हैं।",
+      "description": "Opplex IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें; हर प्लान में एक समय पर एक कनेक्शन है। कुल कीमत, भुगतान के चरण और अकाउंट सहायता देखें।",
       "ogTitle": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
-      "ogDescription": "अपना Opplex IPTV प्लान खोजें, खरीदने से पहले की ज़रूरी जाँच समझें और अपने डिवाइस के लिए मदद पाएँ। कीमतें मुख्य कैटलॉग से जुड़ी रहती हैं।",
+      "ogDescription": "Opplex IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें; हर प्लान में एक समय पर एक कनेक्शन है। कुल कीमत, भुगतान के चरण और अकाउंट सहायता देखें।",
       "twitterTitle": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
-      "twitterDescription": "मौजूदा प्लान की तुलना करें और अपने पहले IPTV सेटअप के लिए व्यावहारिक मदद पाएँ, प्लेयर चुनने से लेकर चेकआउट की समीक्षा तक।",
+      "twitterDescription": "Opplex IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें; हर प्लान में एक समय पर एक कनेक्शन है। कुल कीमत, भुगतान के चरण और अकाउंट सहायता देखें।",
       "schema": {
         "@context": "https://schema.org",
         "@graph": [
@@ -476,7 +476,7 @@
             "@id": "https://opplexiptv.store/hi/#webpage",
             "url": "https://opplexiptv.store/hi/",
             "name": "Opplex IPTV प्लान | सब्सक्रिप्शन और डिवाइस सेटअप",
-            "description": "Opplex IPTV के सब्सक्रिप्शन प्लान की तुलना करें, अपने डिवाइस का सेटअप जाँचें और चेकआउट के चरण समझें। मौजूदा कीमतें Opplex IPTV के मुख्य कैटलॉग से आती हैं।",
+            "description": "Opplex IPTV के 1, 3, 6 या 12 महीने के प्लान की तुलना करें; हर प्लान में एक समय पर एक कनेक्शन है। कुल कीमत, भुगतान के चरण और अकाउंट सहायता देखें।",
             "inLanguage": "hi",
             "isPartOf": {
               "@id": "https://opplexiptv.store/#website"
